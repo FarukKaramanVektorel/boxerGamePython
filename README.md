@@ -1,1 +1,1 @@
-# boxerGamePython
+# Boxer game with Python
